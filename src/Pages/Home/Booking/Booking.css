@@ -1,0 +1,7 @@
+.booking-box-with-shadow {
+
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 18px;
+    box-shadow: 0 0 10px -5px rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+.adventure_text {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.box-with-shadow {
+
+    height: 120px;
+    padding: 25px;
+    margin-top: 50px;
+    border-radius: 18px;
+    box-shadow: 0 0 10px -5px rgba(0, 0, 0, 0.5);
+}
